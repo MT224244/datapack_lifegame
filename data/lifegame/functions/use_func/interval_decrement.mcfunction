@@ -1,0 +1,1 @@
+scoreboard players remove timer interval 1
